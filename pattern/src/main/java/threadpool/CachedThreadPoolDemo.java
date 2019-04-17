@@ -30,6 +30,6 @@ public class CachedThreadPoolDemo {
                 // FUCK
             }
         }
-        // When it go through, it will wait 60s to release the threads
+        es.shutdown();
     }
 }
