@@ -44,6 +44,6 @@ public class HashMapErrDemo {
         t4.start();
         t5.start();
 
-        System.out.println("End");
+        System.out.println("Size is " + map.size());
     }
 }
